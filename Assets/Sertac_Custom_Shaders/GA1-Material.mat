@@ -21,9 +21,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_E8CD6724:
-        m_Texture: {fileID: 2800000, guid: 980daf4705312f64a89029285138f9b1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 07514b0063cb3b945a93f8b1cb4accad, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_ED2C97A8: 0.654
-    m_Colors: []
+    - Vector1_4BD703D0: 0.5
+    - Vector1_55F262F3: 19.9
+    - Vector1_59593DEC: 0.95
+    - Vector1_ED2C97A8: 0.5
+    m_Colors:
+    - Color_9524F33C: {r: 1, g: 0, b: 0, a: 0}
+    - Vector2_AEA251DE: {r: 0.1, g: 0, b: 0, a: 0}
+    - Vector3_E9BBB6A8: {r: 0.5, g: 0, b: 0, a: 0}
